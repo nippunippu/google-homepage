@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+#upper_options {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 10px;
+}
+
+.option {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#center_box {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#logo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#search_box {
+	margin-bottom: 10px;
+}
+
+#two_buttons {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#server {
+	margin-bottom: 20px;
+}
+
+#bottom_box {
+	margin-bottom: 20px;
+}
+
+#bottom_right {
+	float: right;
+}
